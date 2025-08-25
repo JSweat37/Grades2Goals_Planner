@@ -1,0 +1,3 @@
+pymupdf            # PDF text extraction
+pyarrow            # parquet read/write
+python-dotenv      # reads .env for API keys
