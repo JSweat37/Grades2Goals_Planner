@@ -1,0 +1,1 @@
+used refor repeated functions like search_labs and search_slides 
