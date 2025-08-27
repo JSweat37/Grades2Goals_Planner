@@ -1,0 +1,380 @@
+source,file,page,chunk,text
+slide,(Re)-Introduction to Data Science & Control Flow.pptx.pdf,102,1,
+slide,AB Testing.pdf,49,1,"Thursday
+On Thursday we will be meeting for our review 
+session. We will:
+●
+Review GitHub 
+●
+Review TLAB #3
+●
+Work together on TLAB #3
+Remember!  Make this EDA your own. You can 
+discuss ﬁndings & documentation, but you 
+cannot share code."
+slide,Advanced Abstraction.pptx.pdf,66,1,"Tuesday
+Tomorrow will entail:
+●
+Further exploration of OOP.
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Advanced Control Flow.pptx.pdf,93,1,
+slide,Advanced Data Processing.pptx.pdf,61,1,"Wednesday
+Wednesday will entail:
+●
+A review of visualizing data
+●
+How to use Matplotlib
+●
+TLAB Work
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Advanced SQL I.pdf,43,1,"Tuesday
+SQL + Python
+●
+How do we design a database?
+●
+How do we use SQLite in the command 
+line?
+●
+How do we use SQLite in Python?"
+slide,Advanced SQL II.pptx.pdf,41,1,"Wednesday
+SQL Leetcode Review
+●
+Another Leetcode day! (pray that it 
+doesn’t go down)
+●
+We’ll hold off on Machine Learning until 
+Phase 2"
+slide,Applied LLMs & Agents.pdf,41,1,"Agents
+Usage
+LLMs augmented with reasoning loops that can decide 
+when and how to call tools, APIs, or other systems.
+Pros 
+●
+Supports complex reasoning workﬂows
+●
+When used in conjunction with RAGs/Fine-tuned 
+models, all former pros of tools included
+Cons
+●
+Expensive in time to orchestrate
+●
+More points of failure (vs just one)
+●
+Requires robust data management"
+slide,Applied Rest APIs I.pdf,76,1,"Tuesday
+Tuesday will entail:
+●
+More API calls!
+●
+Interacting with the OpenAI API
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Applied Rest APIs II.pptx.pdf,64,1,"Wednesday
+Wednesday will entail:
+●
+A review of probability
+●
+Applied probability
+●
+Work on the OpenAI Lab
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Applied Web Scraping I.pptx.pdf,41,1,"Tuesday
+Tuesday will entail:
+●
+More web-scraping!
+●
+Regular expressions   
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Applied Web Scraping II.pptx.pdf,32,1,"Wednesday
+Wednesday will entail:
+●
+Hypothesis testing
+●
+Applied hypothesis testing in data analysis 
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Bayes Theorem Review.pdf,104,1,"Monday
+Next week, we will continue our 
+review of classiﬁcation algorithms by 
+diving deeper into Naive Bayes & 
+something called 
+K-Nearest-Neighbors.
+You are who your neighbors 
+are.
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Data Reporting.pdf,48,1,"Thursday
+No review session. Financial workshop
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Dimensionality Reduction with PCA.pdf,89,1,"Lab (Due 04/22)
+You are a data scientist working at an up & coming music platform startup 
+that just secured its Series B ﬁnancing. 
+With this infusion of new cash ﬂow, you are tasked with building an 
+unsupervised recommendation algorithm that will recommend users new 
+songs based on their previous listening history. As this is a brand new 
+project, you will have to build this project from scratch.
+Submit a link to your GitHub repository by 4/22."
+slide,Feature Engineering and Wrangling.pdf,44,1,"Next Week
+Next Week we will learn about a new machine 
+learning algorithm called logistic regression.
+Pre-class content for Week 4 will be due 6/25.
+Read the springer textbook (it will be difﬁcult!) 
+Then, watch the StatQuest videos (it will be a 
+welcome reprieve). 
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Hypothesis Testing.pptx.pdf,83,1,"Thursday Review Session
+See you all at the Thursday Review Session!
+●
+Say hi to Cohort B
+●
+Review GitHub
+●
+Work on TLAB #2
+●
+…and more!!!
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Introduction to Conda & File I_O Review.pptx.pdf,44,1,"Tuesday
+Tuesday will entail:
+●
+Introduction to different data formats
+●
+A review of JSON data.
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Introduction to Data Analysis I.pdf,98,1,"Tuesday
+Tuesday will entail:
+●
+Data analysis in pandas! 
+●
+Data manipulation in pandas!
+●
+Data selection in pandas!
+Pandas: SettingWithCopy 
+Warning
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Introduction to Data Analytics II.pdf,54,1,"Wednesday
+Wednesday will entail:
+●
+How do we actually write about the 
+insights that we discover?
+Pandas: SettingWithCopy 
+Warning
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Introduction to Data Processing.pptx.pdf,77,1,"Next Week
+Next week will entail:
+●
+Introduction to OOP
+●
+Data visualization
+●
+Measures of dispersion
+●
+Conda installation
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Introduction to Decision Trees.pdf,62,1,"Wednesday
+Review
+○
+What questions do you have about 
+all classiﬁcation algos so far?
+○
+What differentiates all of these 
+algorithms?
+What is the beneﬁt of working 
+in an ensemble?"
+slide,Introduction to K-Nearest-Neighbors.pdf,90,1,"Tomorrow
+K-Nearest Neighbors
+○
+Who is my neighbor?
+○
+What is a manhattan distance?
+kNN Hyperparameters
+○
+What happens if we increase/decrease k?
+○
+Where does variance/bias exist in kNN?
+Neural network training makes 
+beautiful fractals"
+slide,Introduction to Neural Networks.pdf,83,1,"Tomorrow
+Neural Networks
+○
+What is a “recurrent” neural 
+network
+○
+How do we build a neural 
+network?
+○
+How do we use neural nets to 
+understand sentiment?
+How can we re-organize this 
+structure for better 
+predictions?"
+slide,Introduction to Structured Databases I (1).pdf,62,1,"Tuesday
+On Tuesday we will review…
+●
+What is a “window”
+●
+What is “advanced SQL”
+●
+What is a common table expression?
+●
+How do we use SQL with Python?
+How do different ﬂavors of 
+SQL differ?"
+slide,Introduction to Structured Databases II.pdf,42,1,"Wednesday
+More SQL Practice!
+●
+SQL Leetcode Questions"
+slide,Introduction to Support Vector Machines.pdf,79,1,"Tuesday
+On Tuesday we will discuss decision trees
+●
+What is entropy in information science?
+●
+How do we “grow” a tree using entropy?
+●
+How do we use these trees to predict 
+samples."
+slide,Introduction to the Naive Bayes Classifier.pdf,94,1,"Tomorrow
+K-Nearest Neighbors
+○
+Who is my neighbor?
+○
+What is a manhattan distance?
+kNN Hyperparameters
+○
+What happens if we increase/decrease k?
+○
+Where does variance/bias exist in kNN?
+Neural network training makes 
+beautiful fractals"
+slide,Introduction to Unsupervised Learning Algorithms.pdf,64,1,"Next Week
+Introduction to Neural Networks
+●
+Dimensionality Reduction
+●
+Neural Networks
+●
+Deep Learning"
+slide,Measures of Dispersion & Central Limit Theorem.pdf,67,1,"Thursday
+TLAB 1 Review
+●
+Bring questions
+●
+Work with your peers
+●
+Work outside of class as well
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,NLP & Vector Embeddings.pdf,63,1,"Tomorrow
+The Transformer Architecture
+●
+What is an attention mechanism?
+●
+How do we create embeddings from the 
+Transformer
+●
+How can we use Python packages to 
+implement the transformer?
+How do we arrange 
+perceptrons to create a 
+transformer?"
+slide,Probability Review.pdf,58,1,"Thursday Review Session
+On Thursday we will continue our review of 
+TLAB #2. 
+Jupyter: scratchpad of the data 
+scientist
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Random Forests.pdf,60,1,"Next Week
+Pre-class content for Week 7 will be due 7/21.
+We will review:
+●
+Linear algebra again
+●
+Principal Component Analysis
+●
+Unsupervised machine learning
+If you understand what you're doing, you're 
+not learning anything. - Anonymous"
+slide,Shopping Dataset Case Study.pdf,27,1,"Tuesday
+Tuesday will entail:
+●
+Analysis on a twitter dataset
+●
+Time series analysis
+●
+…and regex"
+slide,SQL Review II.pdf,15,1,"Next Week…
+Next week will entail:
+●
+Monday: End of Phase Project Work
+●
+Tuesday: End of Phase Project Work
+●
+Wednesday: End of Phase Project Work
+●
+Thursday: NO Review Session"
+slide,SQL Review.pdf,16,1,"Next Week…
+Next week will entail:
+●
+Monday: Advanced SQL I
+●
+Tuesday: Advanced SQL II
+●
+Wednesday: Linear Regression
+●
+Thursday: Review Session"
+slide,Transformer Architecture.pdf,19,1,"Almost all of the technology behind this third AI boom has come from the transformer 
+architecture! Although originally invented for text, (machine translation) it can be used on 
+image data, audio data, biological data (protein folding) and much more!
+In short, transformers aren't just good at reading, they're good at any problem where the 
+model needs to look at a lot of data and decide what's important."
+slide,Twitter Dataset Case Study.pptx.pdf,48,1,"Wednesday
+Wednesday will entail:
+●
+Hypothesis testing 
+●
+AB Testing on a real-world dataset"
+slide,Types of Visualizations Review.pdf,64,1,"population - entire group you could possibly get data from
+sample - a subset of your population which you collect data from
+feature - an important component of your data
+independent variable - something that does not change when other features in your data change
+dependent variable - a value which changes when other features in your data change
+discrete variable - a variable which is measured in whole numbers (think integers)
+continuous variable - a variable which is measured with all real numbers, including decimals
+categorical variable - something that is describes things (e.g. color, type, class, etc;)
+quantitative variable -  something that measures things (e.g. age, height, weight, etc;"
+slide,Types of Visualizations Review.pdf,64,2,")
+latent variable - a variable that is not directly observable, but can be inferred from other variables that can be 
+directly measured"

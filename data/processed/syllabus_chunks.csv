@@ -1,0 +1,1297 @@
+source,file,page,chunk,text
+syllabus,IF Data Science 2025 Syllabus.pdf,1,1,"Innovation Fellowship 
+Data Science Syllabus 
+ 
+Class Summary: 
+The Knowledge House Data Science Innovation Fellowship aims to provide students with a multifaceted, 
+foundational skill set essential for an entry-level data or software specialist role, which includes roles in 
+software engineering, data analysis, research analysis,  analytics engineering, and more. 
+Commencing with foundational programming skills, emphasis is laid on mastering Python as a versatile 
+tool for data ingestion, manipulation, and storage. This also entails an exploration of foundational 
+programming skills that students could apply to any language, as well as light forays into individual 
+statistics modules. Subse"
+syllabus,IF Data Science 2025 Syllabus.pdf,1,2,"quently, students then delve into pandas data manipulation in order to preempt 
+the large-scale data analysis and prediction which will be performed in the next phase. 
+The curriculum progresses to machine learning, covering supervised and unsupervised learning, 
+classification, regression, clustering, and ensemble methods. Practical aspects such as feature engineering, 
+model selection, and evaluation metrics are explored, providing a nuanced understanding of the iterative 
+nature of the data science process. In tandem, students are also equipped with skills in relational database 
+modeling, management, and manipulation using the Structured Query Language (SQL).  
+The final phase then concl"
+syllabus,IF Data Science 2025 Syllabus.pdf,1,3,"udes with a comprehensive group project which will develop an analysis report or 
+software tool that satisfies the work-related needs of the Data Science team. Students will work together 
+with their pod members to ensure that tasks are completed in iterative sprint-based chunks along with 
+respective stand-ups. 
+Ethical considerations in data science, encompassing issues of bias, fairness, privacy, and responsible data 
+handling practices, are integrated into the curriculum. Real-world applications and case studies are 
+incorporated to bridge theoretical knowledge with practical applications across various domains, fostering a 
+holistic understanding. The program culminates with various cap"
+syllabus,IF Data Science 2025 Syllabus.pdf,1,4,"stone projects, quizzes, and exams 
+allowing students to apply acquired skills to address substantive data science problems. 
+ 
+Class Schedule: 
+The Innovation Fellowship is broken down into three Phases: 
+●​
+Orientation: March 3 - March 7 2025 
+●​
+Phase 1:  March 10 - May 23 2025  
+●​
+Phase 2: June 9 - August 29 2025 
+●​
+Phase 3: September 15 - December 5 2025 
+ 
+Additionally, after graduation there are continued learning opportunities through the Alumni Program 
+●​
+Alumni Program: December 8 2025 - February 27 2026- 2 
+Scheduled Session 
+Phase 1  
+Phase 2 
+Phase 3 
+Technical Class 
+Mondays, Tuesdays, & 
+Wednesdays  
+5:30 - 9:30pm ET* 
+Thursdays (3x a 
+month)​
+5:30pm Review 
+Mondays, Tuesda"
+syllabus,IF Data Science 2025 Syllabus.pdf,1,5,"ys, & 
+Wednesdays  
+5:30 - 9:30pm ET* 
+TBD 
+1"
+syllabus,IF Data Science 2025 Syllabus.pdf,2,1,"Session (1-2 hours) 
+Career and Life 
+Skills Class 
+1 Thursday a month  
+Weekly on Thursdays 
+Weekly on Thursdays 
+*For LA-based Web Development Fellows registered for west coast evening courses, technical 
+and career classes will be held  5:30 - 9:30pm PST. 
+ 
+TKH offices are closed and no classes are held on these days: 
+●​
+February 17, 2025: Presidents Day 
+●​
+May 26, 2025 : Memorial Day 
+●​
+June 19, 2025: Juneteenth 
+●​
+July 4, 2025 : Independence Day 
+●​
+September 1-5: TKH Break 
+●​
+October 13, 2025: Indigenous Peoples Day 
+●​
+November 27-28, 2025: Thanksgiving Break 
+●​
+December 24 2025 - January 1 2026: TKH Holiday Break 
+●​
+January 19, 2026: Martin Luther King Day 
+●​
+February 16, 20"
+syllabus,IF Data Science 2025 Syllabus.pdf,2,2,"26: Presidents Day  
+ 
+Weekly Breakdown of Topics & Assignments: 
+PHASE 1 
+March 10, 2025 - May 21, 2025 
+By the end of this Phase, fellows will be able to: 
+●​
+Implement fundamental descriptive statistics in Python and pandas.  
+●​
+Apply computer science principles such as data-structures, object oriented programming, control-flow 
+structure, and efficiency analysis in Python projects. 
+●​
+Develop computational thinking in base Python and pandas as it applies to projects where we analyze 
+and aggregate structured datasets.  
+●​
+Analyze and apply technical documentation from Python and pandas. Fellows will be able to discern 
+the usage of any new module given relevant documentation. 
+●​
+Effe"
+syllabus,IF Data Science 2025 Syllabus.pdf,2,3,"ctively operate in a programming environment consisting of Git, GitHub, VSCode, Conda, and a 
+terminal, with the ability to diagnose and point out technical issues.  
+●​
+Engineer data ingestion scripts in Python via File I/O, database ORM’s, Web API’s, and web-scraping to 
+process both structured and unstructured data formats 
+●​
+Implement database management techniques in SQL and auxiliary tools in order to interact and 
+analyze relational data. 
+ 
+In summary: collect, organize, and pipeline data. 
+Week # 
+Dates 
+Topics 
+Overview of the content to be 
+covered. 
+Assignments by Week 
+Assignments, quizzes, pre-class content and other 
+relevant resources. 
+1:1 
+M 3/10/25 
+T 3/11/25 
+W 3/12/25 
+"
+syllabus,IF Data Science 2025 Syllabus.pdf,2,4,"(Re)-Introduction to Data 
+Science 
+Re-introduction of data science; 
+Due 3/28 at 11:59 PM ET: 
+TLAB Advanced Health Monitor Analysis:  
+●​
+Analyze a dataset of heart rate data by 
+2"
+syllabus,IF Data Science 2025 Syllabus.pdf,3,1,"Th 3/13/25 
+Docstring; Control Flow; 
+Truthiness; 
+ 
+Advanced Control Flow: 
+Logical Patterns; For Loops; 
+Advanced Loop Patterns I 
+ 
+Introduction to Data 
+Processing: Advanced Loop 
+Patterns II; Ingesting text files in 
+Python; File I/O 
+ 
+Review Session In-class Work 
+on TLAB - Advanced Health 
+Monitor Analysis 
+ingesting text files and calculating 
+descriptive statistics using functions and 
+other abstraction techniques. 
+●​
+Project must be pushed to GitHub and 
+submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+Pep 8 - Style Guide for Python Code 
+●​
+Numpy Style Guide 
+●​
+Think Python Ch5 (5.1 - 5.7) 
+●​
+Think Python Ch3 (3.1 - 3.5) 
+●​
+Python File I/O 
+●​
+RealPython - Documenting Python Co"
+syllabus,IF Data Science 2025 Syllabus.pdf,3,2,"de 
+●​
+RealPython - Conditional Statements 
+●​
+Kaggle - Booleans & Conditionals 
+ 
+Class Content 
+●​
+(3/10) VSCode Course Unit 3 : Lesson 1 - 
+Lesson 4; VSCode Course Unit 2 : Lesson 6 - 
+Lesson 8 
+●​
+(3/11) Think Python Ch7.9; Ch9.15; Ch10.11; 
+Ch11.11 
+●​
+(3/12) TLAB - Advanced Health Monitor 
+Analysis 
+1:2 
+M 3/17/25 
+T 3/18/25 
+W 3/19/25 
+Th 3/20/25 
+Introduction to Abstraction:  
+VSCode Installation; More 
+Advanced Loop Patterns; Lists; 
+Dictionaries; Tuples 
+ 
+Advanced Abstraction: 
+Introduction to Classes; 
+Introduction to Dataclasses  
+ 
+Measures of Dispersion & 
+Central Limit Theorem: 
+Measures of Dispersion; Normal 
+Distribution; Central Limit 
+Theorem 
+ 
+Review Session In-class Wo"
+syllabus,IF Data Science 2025 Syllabus.pdf,3,3,"rk 
+on TLAB - Advanced Health 
+Monitor Analysis 
+Due 3/22 at 11:59 PM ET: 
+TQZ OOP Quiz: 
+●​
+Solve 10 questions on Python object oriented 
+syntax and debugging questions. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+Think Python Ch14 (14.1 - 14.5) 
+●​
+Think Python Ch15 (15.1 - 15.4;15.6) 
+●​
+Think Python Ch16 (16.1 - 16.3) 
+●​
+Learning Statistics with R Ch 5 (5.2 - 5.3) 
+ 
+Class Content 
+●​
+(3/17) Think Python Ch14.12; Ch 15.10;  
+●​
+(3/18) Think Python Ch16.10  
+●​
+(3/19) TLAB - Advanced Health Monitor 
+Analysis 
+1:3 
+M 3/24/25 
+T 3/25/25 
+W 3/26/25 
+Th 3/27/25 
+ 
+Introduction to Conda 
+Environments & File I/O 
+Review:  
+Conda Installation Lab; VSCode; 
+GitHub Set-Up; Rev"
+syllabus,IF Data Science 2025 Syllabus.pdf,3,4,"iew of 
+ingesting text files in Python; 
+File I/O 
+Due 3/28 at 11:59 PM ET: 
+TQZ Statistics Quiz: 
+●​
+Solve 10 questions on descriptive statistics 
+and probability. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+3"
+syllabus,IF Data Science 2025 Syllabus.pdf,4,1,"Advanced Data Processing: 
+Data formats in data Science; 
+Using packages to read JSON 
+data 
+ 
+Data Visualizations Review: 
+Data Visualizations Review; 
+Probability Review 
+ 
+Career Readiness & Success 
+Class 
+●​
+Why You Need Python Environments… 
+●​
+VSCode Download 
+●​
+Git Download 
+●​
+Miniconda Download 
+●​
+Conda for Data Scientists 
+●​
+How to Read JSON Files in Python 
+ 
+Class Content 
+●​
+(3/24) Lab - Setting up Conda Environments 
+●​
+(3/25) Lab - Processing JSON Data 
+●​
+(3/26) TLAB - Advanced Health Monitor 
+Analysis 
+1:4 
+M 3/31/25 
+T 4/1/25 
+W 4/2/25 
+Th 4/3/25 
+ 
+Applied REST APIs I:  
+Using REST web API’s; 
+Transforming JSON data 
+ 
+Applied REST APIs II:  
+Ingesting Web API Data; 
+O"
+syllabus,IF Data Science 2025 Syllabus.pdf,4,2,"penAI API Usage. 
+ 
+Probability: Probability Review; 
+Probability Distributions; 
+Confidence; In-class Work on 
+TLAB - OpenAI API Review 
+Ingestion 
+ 
+Review Session In-class Work 
+on TLAB - OpenAI API Review 
+Ingestion 
+ 
+Due 4/21 at 11:59 PM ET: 
+TLAB OpenAI API Auto-Evaluation: 
+●​
+Build a pipeline to pass review data to an LLM 
+and collect its output into a dataset. 
+●​
+Project must be pushed to GitHub and 
+submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+What is a REST API? Examples, Uses, and 
+Challenges 
+●​
+Getting Data from an API 
+●​
+API Ingestion in Python 
+ 
+Class Content 
+●​
+(3/31) Lab - Intro to JSON & APIs Lab 
+●​
+(4/1) Lab - Open AI API Lab 
+●​
+(4/2) TLAB - OpenAI API Review Ing"
+syllabus,IF Data Science 2025 Syllabus.pdf,4,3,"estion 
+1:5 
+M 4/7/25 
+T 4/8/25 
+W 4/9/25 
+Th 4/10/25 
+Applied Web Scraping I: 
+Introduction to HTML; 
+Interpreting an HTML page 
+ 
+Applied Web Scraping II: 
+Review of Web-Scraping 
+Concepts and Exercises 
+ 
+Hypothesis Testing: Hypothesis 
+Testing Introduction 
+ 
+Review Session In-class Work 
+on TLAB - OpenAI API Review 
+Ingestion 
+Pre-Class Content: 
+●​
+Intro to HTML 
+●​
+Python Web-Scraping Introduction 
+●​
+A Gentle Introduction to Hypothesis Testing 
+●​
+Regex One 
+ 
+Class Content 
+●​
+(4/7) Lab - Applied Web Scraping Lab I  
+●​
+(4/8) Lab - Applied Web Scraping Lab II 
+●​
+(4/9) TLAB - OpenAI API Review Ingestion 
+1:6 
+M 4/14/25 
+T 4/15/25 
+W 4/16/25 
+Th 4/17/25 
+Introduction to Data Analysis"
+syllabus,IF Data Science 2025 Syllabus.pdf,4,4," I: 
+Conceptual Data Analysis 
+ 
+Introduction to Data Analysis 
+II: Basic Pandas operations; 
+Pre-Class Content: 
+●​
+Indexing and Selecting Data 
+●​
+How to Create Pivot Tables with pandas 
+ 
+Class Content 
+4"
+syllabus,IF Data Science 2025 Syllabus.pdf,5,1,"DataFrame Creation; 
+DataFrame Summaries; 
+DataFrame Manipulation; 
+Boolean Indexing; DataFrame 
+Statistics;  
+ 
+Reporting on Data:  Reporting 
+on data; In-class Work on TLAB - 
+OpenAI API Review Ingestion 
+ 
+Financial Literacy Workshop 
+●​
+(4/14) Kaggle - Learn Pandas - Creating, 
+Reading, & Writing  
+○​
+Kaggle - Learn Pandas - Indexing, 
+Selecting, & Assigning 
+○​
+Kaggle - Learn Pandas - Summary 
+Functions 
+●​
+(4/15) Kaggle Learn Pandas - Grouping & 
+Sorting 
+○​
+Kaggle - Learn Pandas - Data Types & 
+Missing Values 
+○​
+Kaggle - Learn Pandas - Renaming & 
+Combining  
+●​
+(4/16) TLAB - OpenAI API Review Ingestion 
+1:7 
+M 4/21/25 
+T 4/22/25 
+W 4/23/25 
+Th 4/17/25 
+Advanced Data Analysis I: 
+Exp"
+syllabus,IF Data Science 2025 Syllabus.pdf,5,2,"loratory Data Analysis with 
+pandas, seaborn, & matplotlib; 
+Grouping 
+ 
+Advanced Data Analysis II: 
+Pivot Tables, Binning 
+ 
+Pandas Review Day:  Leetcode 
+Questions; In-class Work on 
+TLAB - Weather Data Analysis 
+ 
+Career Class 
+Due 5/12  at 11:59 PM ET: 
+TLAB Weather Data Analysis: 
+●​
+Build a project which will collect data data 
+from a public API and save information into a 
+csv file.  
+●​
+Project must be pushed to GitHub and 
+submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+What is Exploratory Data Analysis? 
+●​
+Data Transformation using Pandas 
+●​
+Group by: split-apply-combine 
+ 
+Class Content 
+●​
+(4/21) Kaggle - Learn Pandas - Hello, Seaborn 
+○​
+Kaggle - Learn Pandas - Line Charts 
+○​
+"
+syllabus,IF Data Science 2025 Syllabus.pdf,5,3,"Kaggle - Learn Pandas - Bar Charts & 
+Heatmaps 
+○​
+Kaggle - Learn Pandas - Scatter Plots 
+○​
+Kaggle - Learn Pandas - Distributions 
+●​
+(4/22) Kaggle - Learn Pandas - Handling 
+Missing Values 
+○​
+Kaggle - Learn Pandas - Scaling & 
+Normalization 
+○​
+Kaggle - Learn Pandas - Parsing Dates 
+○​
+Kaggle - Learn Pandas - Character 
+Encodings 
+●​
+(4/23) TLAB - Weather API Data Analysis 
+1:8 
+M 4/28/25 
+T 4/29/25 
+W 4/30/25 
+Pandas Case Study I: Complete 
+a pandas case on a dataset to 
+reaffirm concepts in data 
+analysis. 
+ 
+Pandas Case Study II: 
+Complete a pandas case on a 
+shopping dataset study to 
+reaffirm concepts in data 
+analysis.. 
+Pre-Class Content: 
+●​
+Defining Business Problems for Analytic"
+syllabus,IF Data Science 2025 Syllabus.pdf,5,4,"al 
+Thinking 
+●​
+Working with Dates and Time Series Data 
+●​
+DataCamp - Pandas Resample With 
+resample() and asfreq() 
+●​
+Alex the Analyst: Regular Expressions Use 
+Cases in Python 
+ 
+Class Content 
+5"
+syllabus,IF Data Science 2025 Syllabus.pdf,6,1,"AB Testing: t-testing; ; In-class 
+Work on TLAB - Weather Data 
+Analysis 
+ 
+Review Session In-class Work 
+on TLAB - Weather Data 
+Analysis 
+●​
+(4/28) Pandas Case Study I 
+●​
+(4/29) Pandas Case Study II 
+●​
+(4/30) TLAB - Weather API Data Analysis 
+ 
+1:9 
+M 5/5/25 
+T 5/6/25 
+W 5/7/25 
+Intro to Structured Databases 
+I: Introduction to SQL; SELECT 
+Queries; Filters Joins 
+ 
+Intro to Structured Databases 
+II: Aggregates; Sub-queries; 
+Execution Order; Using SQL for 
+Ad-Hoc Queries 
+ 
+SQL Review Day: SQL Leetcode 
+Questions; In-class Work on 
+TLAB - Weather API Data 
+Analysis 
+ 
+Review Session In-class Work 
+on TLAB - Weather Data 
+Analysis 
+Class Content 
+●​
+(5/5) SQL Bolt - Lessons 1-7 
+●​
+(5/6)"
+syllabus,IF Data Science 2025 Syllabus.pdf,6,2," SQL Murder Mystery 
+●​
+(5/7) TLAB - Weather API Data Analysis 
+1:10 
+M 5/12/25 
+T 5/13/25 
+W 5/14/25 
+Advanced SQL I: Window 
+Functions; Common Table 
+Expressions 
+ 
+Advanced SQL II: Database 
+Management using SQLite 
+ 
+Linear Regression I: Linear 
+Regression Light Introduction; 
+In-class Work on EOP Project 
+ 
+Review Session TEP 
+Introduction; Collaborating on 
+One Project 
+Due 5/21 at 11:59 PM ET: 
+TEP Phase 1 Project:  
+●​
+Utilize all technical and statistical tools to 
+create a comprehensive data collection tool. 
+Incorporate light exploratory analysis of the 
+data you’ve collected. 
+●​
+Project must be pushed to GitHub and 
+submitted to Canvas. 
+ 
+Pre-Class Content 
+●​
+StatQuest - Fitti"
+syllabus,IF Data Science 2025 Syllabus.pdf,6,3,"ng a Line to Data 
+ 
+Class Content 
+●​
+(5/12) Lab - Advanced SQL Queries I 
+●​
+(5/13) Lab - Advanced SQL Queries II 
+●​
+(5/14) Lab - End of Phase Group  Work 
+1:11 
+M 5/19/25 
+T 5/20/25 
+W 5/21/25 
+End-of-Phase Project Work 
+Day: Work in groups to 
+complete the end of phase 
+project. 
+ 
+End-of-Phase Project Work 
+Day: Work in groups to 
+complete the end of phase 
+project. 
+Pre-Class Content: 
+●​
+None 
+ 
+Class Content 
+●​
+(5/19) End of Phase Group Work & Standup 
+●​
+(5/20) End of Phase Group Work & Standup 
+●​
+(5/21) End of Phase Group  Work & 
+Submission 
+6"
+syllabus,IF Data Science 2025 Syllabus.pdf,7,1,"Machine Learning Preview: 
+Upcoming Machine Learning 
+Algorithms; End of Phase 
+Project 
+ 
+ 
+PHASE 2 
+June 9 - August 29 2025 
+By the end of this Phase, fellows will be able to: 
+●​
+Conceptualize unsupervised and supervised learning methods as well as their underpinning 
+mathematics, which include clustering and dimensionality reduction. 
+●​
+Construct supervised regression models on both random experiment and time series data, and 
+distinguish mathematical differences between these two types of inferences. 
+●​
+Implement common data-driven practices such as A/B testing, database planning, automation, and 
+documentation generation. 
+●​
+Effectively operate Git and GitHub in a technical team env"
+syllabus,IF Data Science 2025 Syllabus.pdf,7,2,"ironment. 
+●​
+Employ cutting-edge Generative AI technology to assist in the development and analysis process, as 
+well as build AI tools in order to glean insights from generative models.. 
+Week # 
+(phase: 
+week) 
+Dates 
+Topics 
+Overview of the content to be 
+covered. 
+Assignments by Week 
+ 
+2:1 
+M 6/9/25   
+T 6/10/25   
+W 6/11/25  
+Th 6/12/25  
+Introduction to Phase 2: 
+Re-introduction to Data 
+Science; Python Refresher & 
+Practical Problems 
+ 
+Advanced Python Review:  API 
+Requests; Web-Scraping 
+ 
+Python & SQL Review Session: 
+SQL Refresher; Using SQL in 
+Python; Lab - SQL Ad-Hoc 
+Analysis Lab 
+ 
+Regression Algorithms I: 
+Introduction to Linear 
+Regression  
+Due 6/27 at 11:59 PM ET: 
+TLAB"
+syllabus,IF Data Science 2025 Syllabus.pdf,7,3," SQL Ad-Hoc Analysis Lab: 
+●​
+Use SQLite in Python to form 8 ad-hoc 
+queries. Generate visualizations for these 
+queries to inform your analytical answers. 
+●​
+6/19 Checkpoint 1: GitHub repo created & 
+functional code. 
+●​
+Project must be pushed to GitHub and 
+submitted to Canvas. 
+ 
+2:2 
+M 6/16/25   
+T 6/17/25   
+W 6/18/25 
+Th 6/19/25    
+Ideathon - No Technical Class 
+ 
+Regression Algorithms II: 
+Evaluating the accuracy of 
+Linear Regression Regression; 
+Regularization 
+ 
+Machine Learning Lab: 
+Due 6/18 at 11:59 PM ET: 
+TQZ P2W2 Pre-Class Quiz: 
+●​
+Answer 5 questions on the upcoming week’s 
+material. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+ISLP - Chapter 6 - 6.2 
+7"
+syllabus,IF Data Science 2025 Syllabus.pdf,8,1,"Hyperparameter tuning;Lab - 
+SQL Lab 
+ 
+Career Class 
+●​
+What is Machine Learning - Andrew Ng 
+●​
+IBM - Hyperparameter Tuning 
+●​
+StatQuest - Gradient Descent, Step-by-Step 
+●​
+StatQuest - Regularization Ridge (L2) 
+Regression 
+●​
+StatQuest - Regularization Lasso (L1) 
+Regression 
+●​
+StatQuest - Cross Validation 
+●​
+Reddit - Linear Regression Gradient Descent 
+Visualized 
+●​
+Datacamp - Lasso and Ridge Regression in 
+Python Tutorial 
+ 
+Class Content 
+●​
+(6/16) Linear Regression Lab I 
+●​
+(6/17) Linear Regression Lab II 
+●​
+(6/18) TLAB SQL Lab 
+2:3 
+M 6/23/25   
+T 6/24/25   
+W 6/25/25 
+Th 6/26/25 
+Classification Algorithms I: 
+Introduction to Logistic 
+Regression 
+ 
+Classification Algorithms I"
+syllabus,IF Data Science 2025 Syllabus.pdf,8,2,"I: 
+Evaluating the accuracy of 
+Logistic Regression; Modeling 
+PIpelines 
+ 
+Machine Learning Lab: Linear & 
+Logistic Regression Review Day; 
+Lab - SQL Lab 
+ 
+Career Class 
+Due 6/25 at 11:59 PM ET: 
+TQZ P2W3 Pre-Class Quiz: 
+●​
+Answer 5 questions on the upcoming week’s 
+material. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+ISLP - Chapter 4 - 4.1 - 4.3 
+●​
+StatQuest - Logistic Regression Part 1 
+●​
+StatQuest - Logistic Regression Part 2 
+●​
+StatQuest - Cross Validation 
+●​
+StatQuest - Bias & Variance 
+ 
+Class Content 
+●​
+(6/23) Logistic Regression Lab I 
+●​
+(6/24) Logistic Regression Lab II 
+●​
+(6/25) TLAB SQL Lab 
+2:4  
+M 6/30/25   
+T 7/1/25   
+W 7/2/25 
+Th 7/3/25 
+Hackath"
+syllabus,IF Data Science 2025 Syllabus.pdf,8,3,"on Demo Day - No 
+Technical Class 
+ 
+Break - No Technical Class 
+ 
+Bayes Theorem Review: 
+Introduction to Bayes Theorem 
+ 
+Career Class 
+Due 7/23 at 11:59 PM ET: 
+TLAB Financial Fraud Detection: 
+●​
+Identify financial fraud using ensemble 
+methods. Workflow should include EDA, 
+pre-processing, hyperparameter tuning, 
+and model evaluation. 
+●​
+Must contain answers to 5 self-reflective 
+questions 
+●​
+Project must be pushed to GitHub and 
+submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+Veritasium - The Bayesian Trap 
+●​
+StatQuest - Bayes’ Theorem 
+ 
+Class Content 
+●​
+(6/30) No Class 
+8"
+syllabus,IF Data Science 2025 Syllabus.pdf,9,1,"●​
+(7/1) No Class 
+●​
+(7/2) Bayes Theorem Code-Along  
+2:5  
+M 7/7/25   
+T 7/8/25   
+W 7/9/25 
+Th 7/10/25 
+Naive Bayes Classification:: 
+Naive Bayes Classifier 
+ 
+K-Nearest-Neighbors:  
+K-Nearest Neighbors; 
+Considerations of 
+Dimensionality 
+ 
+Feature Engineering: Feature 
+Engineering Lab  
+ 
+Career Class 
+ 
+Due 7/7 at 11:59 PM ET: 
+TQZ P2W5 Pre-Class Quiz: 
+●​
+Answer 5 questions on the upcoming week’s 
+material. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+ISLP - Chapter 4 - 4.4.4 
+●​
+ISLP - Chapter 2 - 2.2.3 - 2.3 
+●​
+ISLP - Chapter 6 - 6.4.1 - 6.4.2 
+●​
+StatQuest - Naive Bayes 
+●​
+StatQuest - kNN 
+ 
+Class Content 
+●​
+(7/7) Naive Bayes Code-Along 
+●​
+(7/8) kNN Code-Alon"
+syllabus,IF Data Science 2025 Syllabus.pdf,9,2,"g 
+●​
+(7/9) Feature Engineering Lab 
+ 
+2:6 
+M 7/14/25   
+T 7/15/25   
+W 7/16/25 
+Th 7/17/25 
+Support Vector Machines: 
+Support Vector Machines & 
+Kernel Trick 
+ 
+Decision Trees: 
+Decision Trees & Entropy 
+ 
+Ensemble Learning: 
+Random Forests; Ensemble 
+Methods Lab 
+ 
+Career Class 
+Due 7/14 at 11:59 PM ET: 
+TQZ P2W6 Pre-Class Quiz: 
+●​
+Answer 5 questions on the upcoming week’s 
+material. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+ISLP - Chapter 9 - 9.1 - 9.4 
+●​
+ISLP - Chapter 8 - 8.1.1 - 8.1.4 
+●​
+StatQuest - SVM Part 1  
+●​
+StatQuest - SVM Part 2 
+●​
+Kernel Trick (Visually Explained) 
+●​
+StatQuest - Decision Tree & Gini Impurity 
+●​
+ISLP - Chapter 8 - 8.2.1 - 8.2.3 
+●​
+"
+syllabus,IF Data Science 2025 Syllabus.pdf,9,3,"StatQuest - Random Forests 
+●​
+StatQuest - Bootstrapping 
+●​
+IBM - Bagging 
+ 
+Class Content 
+●​
+(7/14) SVM Code-Along 
+●​
+(7/15) Decision Trees Code-Along 
+●​
+(7/16) Random Forests Lab 
+2:7 
+M 7/21/25   
+T 7/22/25   
+W 7/23/25 
+Th 7/24/25 
+Machine Learning Case Study: 
+ML Case Study 
+ 
+Dimensionality Reduction: 
+Linear Algebra Review; Principal 
+Component Analysis (PCA) 
+ 
+Unsupervised Learning 
+Due 7/21 at 11:59 PM ET: 
+TQZ P2W7 Pre-Class Quiz: 
+●​
+Answer 5 questions on the upcoming week’s 
+material. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Due 8/10 at 11:59 PM ET: 
+TLAB Music Recommendation: 
+9"
+syllabus,IF Data Science 2025 Syllabus.pdf,10,1,"Algorithms:  Introduction to 
+Unsupervised Learning; 
+K-Means Clustering 
+ 
+Career Class 
+●​
+Create an unsupervised learning algorithm 
+on a dataset of unlabeled music data. Your 
+goal will be to generate clusters which will 
+then be used to recommend music for a 
+hypothetical user. 
+●​
+Must contain answers to 10 self-reflective 
+questions 
+●​
+Project must be pushed to GitHub and 
+submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+3blue1brown - Eigenvectors & Eigenvalues 
+●​
+StatQuest - Principal Component Analysis 
+●​
+Victor Lavrenko - PCA Part 1 
+●​
+ISLP - Chapter 6 - 6.3.1 - 6.3.2 
+●​
+ISLP - Chapter 12 - 12.4.1 - 12.4.2 
+●​
+StatQuest - K-Means Clustering 
+ 
+Class Content 
+●​
+(7/21) PCA Code-A"
+syllabus,IF Data Science 2025 Syllabus.pdf,10,2,"long 
+●​
+(7/22) K-Means Clustering Code-Along 
+●​
+(7/23) Dimensionality Reduction Lab 
+2:8 
+M 7/28/25   
+T 7/29/25   
+W 7/30/25 
+Th 7/31/25   
+Neural Networks I: Perceptron 
+Introduction 
+ 
+Neural Networks II:  
+Multi-Layer Perceptrons & 
+Pytorch 
+ 
+Machine Learning Lab: Neural 
+Networks Review Session 
+ 
+Career Class 
+Due 7/28 at 11:59 PM ET: 
+TQZ P2W8 Pre-Class Quiz: 
+●​
+Answer 5 questions on the upcoming week’s 
+material. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+ISLP - Chapter 10 - 10.1 
+●​
+ISLP - Chapter 10 - 10.2 
+●​
+ISLP - Chapter 10 - 10.5 
+●​
+StatQuest - Neural Nets 
+ 
+Class Content 
+●​
+(7/28) Neural Networks Code-Along I 
+●​
+(7/29) Neural Networks Code-Along I"
+syllabus,IF Data Science 2025 Syllabus.pdf,10,3,"I 
+●​
+(7/30) Neural Networks Lab 
+ 
+ 
+2:9 
+M 8/4/25   
+T 8/5/25   
+W 8/6/25 
+Th 8/7/25   
+Natural Language Processing 
+& Language Models I: Vector 
+Embeddings; Word2Vec; TF-IDF; 
+Similarity Metrics 
+ 
+Natural Language Processing 
+& Language Models II: 
+Transformer Architecture  
+ 
+Natural Language Processing 
+& Language Models IIII: 
+Due 8/6 at 11:59 PM ET: 
+TQZ P2W9 Pre-Class Quiz: 
+●​
+Answer 5 questions on the upcoming week’s 
+material. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+ 
+ 
+Class Content 
+●​
+ 
+10"
+syllabus,IF Data Science 2025 Syllabus.pdf,11,1,"HuggingFace Pipeline 
+ 
+Career Class 
+2:10 
+M 8/11/25   
+T 8/12/25   
+W 8/13/25   
+Th 8/14/25   
+Applied LLMs I: Vector DB’s & 
+RAGS 
+ 
+Applied LLMs II: Fine-Tuning 
+Models 
+ 
+Machine Learning Lab: 
+Generative AI Tools case study 
+ 
+Career Class 
+Due 8/29 at 11:59 PM ET: 
+TEP Phase 2 Project: 
+●​
+Utilize all technical and statistical tools to 
+create a comprehensive RAG tool.  
+●​
+Project must be pushed to GitHub and 
+submitted to Canvas. 
+ 
+TQZ P2W10 Pre-Class Quiz: 
+●​
+Answer 5 questions on the upcoming week’s 
+material. 
+●​
+Quiz must be submitted to Canvas. 
+ 
+Pre-Class Content: 
+●​
+ 
+ 
+Class Content 
+●​
+ 
+2:11 
+M 8/18/25   
+T 8/19/25   
+W 8/20/25 
+Th 8/21/25   
+Fine-Tuning & Applied LLMs"
+syllabus,IF Data Science 2025 Syllabus.pdf,11,2," I: 
+… 
+ 
+Fine-Tuning & Applied LLMs II: 
+… 
+ 
+Machine Learning Lab: … 
+ 
+Career Class 
+Pre-Class Content: 
+●​
+ 
+ 
+Class Content 
+●​
+ 
+2:12 
+M 8/25/25   
+T 8/26/25   
+W 8/27/25 
+Th 8/28/25   
+Review Day I 
+Review of all Phase 2 concepts. 
+ 
+Review Day II 
+Review of all Phase 2 concepts. 
+ 
+Assessment Day 
+ 
+Career Class 
+Pre-Class Content: 
+●​
+ 
+ 
+Class Content 
+●​
+ 
+ 
+ 
+PHASE 3 
+September 15 - December 5 2025 
+Week # 
+(phase: 
+week) 
+Dates 
+Topics 
+Overview of the content to be 
+covered. 
+Assignments by Week 
+ 
+3:1 
+M 9/15/25   
+T 9/16/25   
+ 
+ 
+11"
+syllabus,IF Data Science 2025 Syllabus.pdf,12,1,"W 9/17/25   
+3:2 
+M 9/22/25   
+T 9/23/25   
+W 9/24/25 
+ 
+ 
+3:3 
+M 9/29/25   
+T 9/30/25   
+W 10/1/25 
+ 
+ 
+3:4 
+M 10/6/25   
+T 10/7/25   
+W 10/8/25 
+ 
+ 
+3:5 
+M 10/13/25   
+T 10/14/25   
+W 10/15/25 
+ 
+ 
+3:6 
+M 10/20/25   
+T 10/21/25   
+W 10/22/25 
+ 
+ 
+3:7 
+M 10/27/25   
+T 10/28/25   
+W 10/29/25 
+ 
+ 
+3:8 
+M 11/03/25   
+T 11/04/25   
+W 11/05/25 
+ 
+ 
+3:9 
+M 11/10/25   
+T 11/11/25   
+W 11/12/25 
+ 
+ 
+3:10 
+M 11/17/25   
+T 11/18/25   
+W 11/19/25 
+ 
+ 
+3:11 
+M 11/24/25   
+T 11/25/25   
+W 11/26/25 
+Capstone Projects due by 11/26 
+ 
+3:12 
+M 12/01/25   
+T 12/02/25   
+W 12/03/25  
+Capstone Presentations Week   
+ 
+ 
+12"
+syllabus,IF Data Science 2025 Syllabus.pdf,13,1,"Academic Integrity and Responsible AI Use Policy: 
+1. Plagiarism: 
+●​ Plagiarism, the use of someone else's work or ideas without proper acknowledgment, is a 
+serious violation of academic integrity. This includes, but is not limited to, submitting someone 
+else's work as your own, copying and pasting from online sources without citation, and 
+collaborating on assignments without authorization.  
+●​ Coding patterns will be acknowledged and noted that while there may be minimal variance in 
+process, the wholesale copying of code from another source without proper attribution still 
+constitutes plagiarism.  
+2. Responsible Use of AI Tools: 
+●​ The use of AI tools, such as ChatGPT and other Lan"
+syllabus,IF Data Science 2025 Syllabus.pdf,13,2,"guage Models (LLMs), is prohibited for 
+completing assignments or exams unless explicitly authorized by the instructor. Utilizing AI to 
+generate responses, essays, or other academic content without proper citation is considered a 
+violation of academic integrity. 
+●​ If the use of AI tools is permitted for a specific assignment, clear guidelines will be provided by 
+the instructor. Failure to adhere to these guidelines may result in academic penalties. 
+3. Collaboration and Individual Work: 
+●​ Collaboration is encouraged when explicitly permitted by the instructor. However, individual 
+assignments should be completed independently unless instructed otherwise. If uncertain 
+about the level "
+syllabus,IF Data Science 2025 Syllabus.pdf,13,3,"of collaboration allowed, seek clarification from the instructor. 
+4. Consultation and Clarification: 
+●​ If you have any questions regarding the appropriate use of AI tools, collaboration, or citation, 
+please seek clarification from the instructor before completing assignments or exams. 
+ 
+13"
