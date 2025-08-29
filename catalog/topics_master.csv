@@ -1,1 +1,42 @@
-topic_id,display_name,keywords,blurb
+topic_id,topic_name,synonyms,priority,created_at,created_by
+1,SQL Joins,"inner join,left join,right join,merge tables,sql review",high,2025-08-29,seed
+2,Overfitting and Regularization,"overfitting,underfitting,regularization,l1,l2,dropout",high,2025-08-29,seed
+3,Neural Networks,"neural net,deep learning,backpropagation,activation,hidden layer",high,2025-08-29,seed
+4,Data Visualization,"charts,graphs,matplotlib,seaborn,visualize,plots",medium,2025-08-29,seed
+5,Supervised vs Unsupervised,"classification,regression,clustering,unsupervised,labels",medium,2025-08-29,seed
+6,Statistical Concepts,"p-value,confidence interval,hypothesis test,anova,t-test",medium,2025-08-29,seed
+7,Python Basics,"functions,loops,def,lambda,iteration,methods",low,2025-08-29,seed
+8,NLP Basics,"nlp,natural language,tokenization,stemming,lemmatization",medium,2025-08-29,seed
+9,Data Cleaning,"missing values,nulls,dropna,impute,preprocessing",medium,2025-08-29,seed
+10,Clustering,"kmeans,hierarchical clustering,unsupervised,clusters",medium,2025-08-29,seed
+11,Decision Trees,"decision tree,random forest,tree-based models,gini,entropy",medium,2025-08-29,seed
+12,Model Evaluation,"accuracy,precision,recall,f1-score,confusion matrix",high,2025-08-29,seed
+13,Time Series Analysis,"time series,forecasting,seasonality,trend,arima",medium,2025-08-29,seed
+14,Big Data Tools,"hadoop,spark,big data,mapreduce",low,2025-08-29,seed
+15,APIs and Web Scraping,"api,web scraping,requests,beautifulsoup,scrapy",low,2025-08-29,seed
+16,Data Ethics,"data ethics,bias,fairness,privacy,transparency",low,2025-08-29,seed
+17,Dimensionality Reduction,"pca,lda,dimensionality reduction,feature selection",medium,2025-08-29,seed
+18,Reinforcement Learning,"reinforcement learning,q-learning,policy,agent",low,2025-08-29,seed
+19,Cloud Computing,"aws,azure,cloud computing,cloud services",low,2025-08-29,seed
+20,SQL Subqueries,"subquery,nested query,sql subquery",medium,2025-08-29,seed
+21,Confusion Matrix,"confusion matrix,true positive,false positive,true negative,false negative",high,2025-08-29,seed
+22,Logistic Regression,"logistic regression,sigmoid,odds ratio",high,2025-08-29,seed
+23,Feature Engineering,"feature engineering,feature extraction,feature creation",medium,2025-08-29,seed
+24,Cross-Validation,"cross-validation,k-fold,train-test split",medium,2025-08-29,seed
+25,Gradient Descent,"gradient descent,learning rate,optimization",medium,2025-08-29,seed    
+26,Support Vector Machines,"svm,support vector machine,hyperplane",medium,2025-08-29,seed
+27,Ensemble Methods,"ensemble methods,bagging,boosting",medium,2025-08-29,seed
+28,Data Types in Python,"data types,lists,tuples,dictionaries,sets",low,2025-08-29,seed
+29,DataFrames with Pandas,"dataframes,pandas,series,data manipulation",medium,2025-08-29,seed
+30,Regular Expressions,"regex,regular expressions,pattern matching",low,2025-08-29,seed
+31,Normalization and Standardization,"normalization,standardization,z-score,min-max scaling",medium,2025-08-29,seed
+32,Handling Imbalanced Data,"imbalanced data,oversampling,undersampling,smote",medium,2025-08-29,seed
+33,Model Deployment,"model deployment,flask,docker,api",low,2025-08-29,seed
+34,Data Warehousing,"data warehousing,etl,data lake",low,2025-08-29,seed
+35,Anomaly Detection,"anomaly detection,outlier detection",medium,2025-08-29,seed
+36,Principal Component Analysis,"pca,principal component analysis",medium,2025-08-29,seed
+37,Markov Chains,"markov chains,stochastic process",low,2025-08-29,seed
+38,Monte Carlo Simulation,"monte carlo simulation,random sampling",low,2025-08-29,seed
+39,Data Storytelling,"data storytelling,narrative,communication",low,2025-08-29,seed
+40,Git and Version Control,"git,version control,github,branching",low,2025-08-29,seed
+
