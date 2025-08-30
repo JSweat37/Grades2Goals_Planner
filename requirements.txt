@@ -1,3 +1,9 @@
+pandas
+numpy
+sentence-transformers  # for embeddings
+faiss-cpu         # for vector search
+openai            # for LLM access
 pymupdf            # PDF text extraction
 pyarrow            # parquet read/write
 python-dotenv      # reads .env for API keys
+pymupdf
