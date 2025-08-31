@@ -1,0 +1,109 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "tasks": [
+        {
+          "title": "Task 1 (est. 15\u201325 min)    Review the definitions and differences between `INNER JOIN`, `LEFT JOIN`, and `RIGHT JOIN`. Take notes on when to use each type.",
+          "est_mins": 25,
+          "citation_url": "[1]"
+        },
+        {
+          "title": "Task 2 (est. 10\u201320 min)    Read through the SQL JOIN examples provided in the course materials and write down the SQL syntax for each type of join.",
+          "est_mins": 20,
+          "citation_url": "[3]"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "tasks": [
+        {
+          "title": "Task 1 (est. 20\u201330 min)    Use the interactive SQL playground to practice writing `INNER JOIN` queries. Experiment with different tables and columns.",
+          "est_mins": 30,
+          "citation_url": "[6]"
+        },
+        {
+          "title": "Task 2 (est. 15\u201325 min)    Complete a coding exercise that requires you to write `LEFT JOIN` queries based on provided datasets.",
+          "est_mins": 25,
+          "citation_url": "[1]"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "tasks": [
+        {
+          "title": "Task 1 (est. 15\u201325 min)    Revisit your notes from Day 1 and summarize the key points about SQL JOINs. Focus on the differences between join types.",
+          "est_mins": 25,
+          "citation_url": "[1]"
+        },
+        {
+          "title": "Task 2 (est. 10\u201320 min)    Go through the SQL JOIN examples again and try to explain them in your own words.",
+          "est_mins": 20,
+          "citation_url": "[3]"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "tasks": [
+        {
+          "title": "Task 1 (est. 20\u201330 min)    Write SQL queries using `RIGHT JOIN` and `FULL OUTER JOIN` in the interactive SQL playground. Test different scenarios.",
+          "est_mins": 30,
+          "citation_url": "[3]"
+        },
+        {
+          "title": "Task 2 (est. 15\u201325 min)    Solve SQL Leetcode questions that focus on JOIN operations.",
+          "est_mins": 25,
+          "citation_url": "[7]"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "tasks": [
+        {
+          "title": "Task 1 (est. 15\u201325 min)    Reflect on the challenges faced while writing JOIN queries. Write down any specific areas where you feel less confident.",
+          "est_mins": 25,
+          "citation_url": "[1]"
+        },
+        {
+          "title": "Task 2 (est. 10\u201320 min)    Discuss your reflections with a peer or mentor, focusing on the differences between the join types.",
+          "est_mins": 20,
+          "citation_url": "[1]"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "tasks": [
+        {
+          "title": "Task 1 (est. 15\u201325 min)    Go over your notes and reflections from Days 1 and 5. Create a comparison chart for `INNER JOIN`, `LEFT JOIN`, and `RIGHT JOIN`.",
+          "est_mins": 25,
+          "citation_url": "[1]"
+        },
+        {
+          "title": "Task 2 (est. 10\u201320 min)    Revisit the SQL JOIN examples and practice writing queries for each type again, ensuring you understand their outputs.",
+          "est_mins": 20,
+          "citation_url": "[3]"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "tasks": [
+        {
+          "title": "Task 1 (est. 30 min)    Complete a mini-quiz or small coding task that requires you to write queries using all types of joins. Assess your understanding based on the results.",
+          "est_mins": 30,
+          "citation_url": "[1]"
+        },
+        {
+          "title": "Task 2 (est. 15 min)    Review the quiz results and identify any areas that still need improvement. Plan next steps for further practice.",
+          "est_mins": 15,
+          "citation_url": "[1]"
+        }
+      ]
+    }
+  ]
+}
